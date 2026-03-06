@@ -32,7 +32,7 @@
     <img height="160" src="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=default&hide_border=true" />
   </picture>
 </p>
----
+
 
 ## About
 
