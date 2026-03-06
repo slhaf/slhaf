@@ -9,10 +9,29 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://stats.slhaf.work/api?username=slhaf&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source
+      srcset="https://stats.slhaf.work/api?username=slhaf&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://stats.slhaf.work/api?username=slhaf&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="160" src="https://stats.slhaf.work/api?username=slhaf&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+    <picture>
+    <source
+      srcset="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="160" src="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
-
 ---
 
 ## About
