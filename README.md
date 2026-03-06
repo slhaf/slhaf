@@ -8,6 +8,11 @@
   College student · Java / Kotlin developer · Building agent systems and tools
 </p>
 
+<p align="center">
+  <img height="160" src="https://stats.slhaf.work/api?username=slhaf&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://stats.slhaf.work/api/top-langs/?username=slhaf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## About
