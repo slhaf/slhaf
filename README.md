@@ -60,6 +60,6 @@ Right now, I'm building **[Partner](https://github.com/slhaf/Partner)**, an expe
 ## Devices
 
 - **slhaf-laptop**: Arch Linux · DELL G15 5520 (seems old but enough for development)
-- **slhaf-tablet** — Arch Linux · ThinkPad X1 Tablet Gen 3 (great for remote development over Tailscale with a power bank)  
+- **slhaf-tablet**: Arch Linux · ThinkPad X1 Tablet Gen 3 (great for remote development over Tailscale with a power bank)  
 - **slhaf-server**: Ubuntu · OrangePi 3B (with a portable wifi, providing public ipv6 access)
 - **slhaf-mobile**: Redmi Note 12 Turbo (I don't like it, but it's cheap) 
